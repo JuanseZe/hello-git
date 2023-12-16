@@ -1,1 +1,1 @@
-print("Hello Git lokk")
+print("Hello Git lokkhut")
